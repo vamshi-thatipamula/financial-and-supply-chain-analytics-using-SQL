@@ -1,0 +1,148 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="a_iu1WKNiVTaTjdUS_C5">
+    <mxGraphModel dx="982" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QcJWweXadijsW9pN1zEj-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="1140" width="1040" x="239" as="geometry" />
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;dashed=1;dashPattern=8 8;spacing=8;spacingTop=-4;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Sales Channels&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="280" width="880" x="320" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="TpaX5IwaU9rlXeaszaN2-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;dashed=1;dashPattern=8 8;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Supply Chain&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="360" width="400" x="560" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TpaX5IwaU9rlXeaszaN2-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#f1efe8, #ededed);" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Demand Forecast&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Predicts units to sell&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="640" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TpaX5IwaU9rlXeaszaN2-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#f1efe8, #ededed);" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Manufacturing Plant&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Production follows forecast&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="640" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="TpaX5IwaU9rlXeaszaN2-4" edge="1" parent="1" source="TpaX5IwaU9rlXeaszaN2-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startSize=6;endSize=8;" target="TpaX5IwaU9rlXeaszaN2-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="710" y="420" as="sourcePoint" />
+            <mxPoint x="760" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TpaX5IwaU9rlXeaszaN2-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#f1efe8, #ededed);" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; white-space: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Warehouse and Distribution&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Stock stored and shipped&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="640" y="381" as="geometry" />
+        </mxCell>
+        <mxCell id="TpaX5IwaU9rlXeaszaN2-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=8;" target="TpaX5IwaU9rlXeaszaN2-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="760" y="341" as="sourcePoint" />
+            <mxPoint x="760" y="471" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TpaX5IwaU9rlXeaszaN2-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=light-dark(#e1f5ee, #ededed);" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Direct&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="200" width="240" x="640" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="TpaX5IwaU9rlXeaszaN2-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; white-space: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AtliQ Exclusive&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; font-size: 14px; text-align: start; white-space: nowrap;&quot;&gt;Brick and mortar&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="660" y="658" as="geometry" />
+        </mxCell>
+        <mxCell id="TpaX5IwaU9rlXeaszaN2-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;AtliQ e Store&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;E-commerce&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="660" y="742" as="geometry" />
+        </mxCell>
+        <mxCell id="TpaX5IwaU9rlXeaszaN2-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=light-dark(#eeedfe, #ededed);" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Retailer&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="200" width="240" x="360" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="TpaX5IwaU9rlXeaszaN2-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; white-space: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Physical Stores R1, R2&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Brick and mortar&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="380" y="658" as="geometry" />
+        </mxCell>
+        <mxCell id="TpaX5IwaU9rlXeaszaN2-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; white-space: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Online Stores R3, R4&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;E-commerce&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="380" y="742" as="geometry" />
+        </mxCell>
+        <mxCell id="TpaX5IwaU9rlXeaszaN2-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=light-dark(#eeedfe, #ededed);" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; white-space: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Distributor&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="200" width="240" x="920" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="TpaX5IwaU9rlXeaszaN2-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Distributors D1, D2&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Restricted countries&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="940" y="658" as="geometry" />
+        </mxCell>
+        <mxCell id="TpaX5IwaU9rlXeaszaN2-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; white-space: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Local Stores L1, L2&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Supplied by distributors&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="940" y="742" as="geometry" />
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-2" edge="1" parent="1" source="TpaX5IwaU9rlXeaszaN2-5" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startSize=6;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TpaX5IwaU9rlXeaszaN2-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="760" y="480" as="sourcePoint" />
+            <mxPoint x="760" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-4" edge="1" parent="1" source="TpaX5IwaU9rlXeaszaN2-12" style="endArrow=classic;startArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TpaX5IwaU9rlXeaszaN2-15" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.11" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="520" />
+              <mxPoint x="1040" y="520" />
+            </Array>
+            <mxPoint x="500" y="550" as="sourcePoint" />
+            <mxPoint x="930" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#faece7, #ededed);" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Consumers (end customers)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;People who use the products&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="640" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-6" edge="1" parent="1" source="TpaX5IwaU9rlXeaszaN2-8" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startSize=6;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QcJWweXadijsW9pN1zEj-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="760" y="840" as="sourcePoint" />
+            <mxPoint x="760" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-7" edge="1" parent="1" source="QcJWweXadijsW9pN1zEj-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.181;exitY=0.929;exitDx=0;exitDy=0;entryX=0.167;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.4928" as="geometry">
+            <Array as="points">
+              <mxPoint x="479.28" y="920" />
+              <mxPoint x="680" y="920" />
+            </Array>
+            <mxPoint x="480" y="820" as="sourcePoint" />
+            <mxPoint x="680.0800000000002" y="979.6399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-8" edge="1" parent="1" source="TpaX5IwaU9rlXeaszaN2-15" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.833;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" target="QcJWweXadijsW9pN1zEj-5" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.3089" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="920" />
+              <mxPoint x="840" y="920" />
+            </Array>
+            <mxPoint x="760" y="850" as="sourcePoint" />
+            <mxPoint x="810" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-9" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;strokeWidth=1;strokeColor=light-dark(#5f5e5a, #ededed);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="941" as="sourcePoint" />
+            <mxPoint x="1200" y="941" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AtliQ’s sales data ends here" vertex="1">
+          <mxGeometry height="20" width="180" x="1033" y="942" as="geometry" />
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#eeedfe, #ededed);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="450" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;AtliQ&#39;s Customers&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="460" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#e1f5ee, #ededed);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="681" y="1089" as="geometry" />
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;AtliQ&#39;s Own Stores&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="693" y="1079" as="geometry" />
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#f1efe8, #ededed);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="910" y="1089" as="geometry" />
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;AtliQ&#39;s Operations&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="919" y="1079" as="geometry" />
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1f4e79, #ededed);fontColor=light-dark(#ffffff, #ededed);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;AtliQ Hardware: Supply Chain and Sales Channels&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="880" x="320" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QcJWweXadijsW9pN1zEj-22" edge="1" parent="1" source="TpaX5IwaU9rlXeaszaN2-16" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=3;" target="TpaX5IwaU9rlXeaszaN2-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="710" y="900" as="sourcePoint" />
+            <mxPoint x="760" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
